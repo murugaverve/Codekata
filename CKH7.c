@@ -1,22 +1,22 @@
 #include<stdio.h>
 int main()
 {
-    int a[100],b[100]={0},i,j,n;
-    scanf("%d",&n);
-    for(i=0;i<n;i++)
+    int b[100],a[100]={0},i,j,m;
+    scanf("%d",&m);
+    for(i=0;i<m;i++)
     {
-        scanf("%d",&a[i]);
+        scanf("%d",&b[i]);
     }
-    for(i=0;i<n;i++)
+    for(i=0;i<m;i++)
     {
-        for(j=i+1;j<n;j++)
+        for(j=i+1;j<m;j++)
         {
-            if(a[i]==a[j])
-             b[i]=1;
+            if(b[i]==b[j])
+             a[i]=1;
         }
     }
-    for(i=0;i<n;i++)
-    if(b[i]==0)
-    printf("%d",a[i]);
+    for(i=0;i<m;i++)
+    if(a[i]==0)
+    printf("%d",b[i]);
     return 0;
 }
