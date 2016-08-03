@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Calculator
+</title>
+<style>
+
+div
+{
+border: 1px solid #FFF8DC ;
+
+padding:50px;
+border-radius:50px;
+background-color:cyan;
+
+
+}
+button
+{
+list-style:none;
+border-radius:20px;
+width:180px;
+height: 50px;
+}
+</style>
+<script>
+function add()
+{
+var a=parseInt(document.getElementById("val1").value);
+var b=parseInt(document.getElementById("val2").value);
+var c=a+b;
+document.getElementById("val3").value=c;
+}
+function sub()
+{
+var a=parseInt(document.getElementById("val1").value);
+var b=parseInt(document.getElementById("val2").value);
+var c=a-b;
+document.getElementById("val3").value=c;
+}
+function mul()
+{
+var a=parseInt(document.getElementById("val1").value);
+var b=parseInt(document.getElementById("val2").value);
+var c=a*b;
+document.getElementById("val3").value=c;
+}
+function div()
+{
+var a=parseInt(document.getElementById("val1").value);
+var b=parseInt(document.getElementById("val2").value);
+var c=a/b;
+document.getElementById("val3").value=c;
+}
+</script>
+</head>
+<body>
+
+<div id="cal">
+<table width="500px" height"200px">
+<tr>
+<td>First Value:</td>
+<td> <input type="text" id="val1"></td>
+</tr>
+<tr>
+<td>Second Vlaue:</td>
+<td> <input type="text" id="val2"></td>
+</tr>
+<tr><br>
+<td>Answer:</td>
+<td> <input type="text" id="val3"></td>
+</tr>
+</table>
+<br>
+<button  onclick="add()"> Add</button>
+<button onclick="sub()">Sub</button>
+<button onclick="mul()" >Mul</button>
+<button onclick="div()">Div</button>
+
+</div>
+
+</body>
+</html>
