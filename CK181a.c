@@ -4,7 +4,7 @@ int main()aaaaaa
  int t1,sum,n,m,i,j,t;
  scanf("%d %d",&n,&m);
  for(i=n;i<=m;i++)
- {
+ {zxcz
   sum=0;
   t=i;
   while(t!=0)
