@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
- int n;
+ int n;wdd
  scanf("%d",&n)
  if(n==0)aef
    printf("0");ad
