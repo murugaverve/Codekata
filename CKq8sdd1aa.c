@@ -3,8 +3,8 @@ int main()aaaaaa
 {
  int t1,sum,n,m,i,j,t;wdD
  scanf("%d %d",&n,&m);
- for(i=n;i<=m;i++)
- {zxcz
+ for(i=n;i<=m;i++)asdasd
+ {zxcza
   sum=0;
   t=i;fe
   while(t!=0)
