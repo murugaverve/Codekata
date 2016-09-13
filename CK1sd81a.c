@@ -6,7 +6,7 @@ int main()aaaaaa
  for(i=n;i<=m;i++)
  {zxcz
   sum=0;
-  t=i;
+  t=i;fe
   while(t!=0)
   {
    t1=t%10;
