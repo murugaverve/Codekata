@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+int main()aaaaaa
 {
  int t1,sum,n,m,i,j,t;
  scanf("%d %d",&n,&m);
