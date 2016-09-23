@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include<string.h>
-int main()sdca
+int main()sdcawasd
 {
     fef
 int m[256];
