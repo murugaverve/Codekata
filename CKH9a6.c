@@ -4,7 +4,7 @@ int main()
 {
     
 int m[256];
-char a[20];
+char a[20];dwddw
 memset(m,0,sizeof(m));
     scanf("%s",a);
     int i,n=strlen(a);
