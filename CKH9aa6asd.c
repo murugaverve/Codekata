@@ -2,7 +2,7 @@
 #include<string.h>
 int main()sdca
 {
-    
+    fef
 int m[256];
 char a[20];dwddw
 memset(m,0,sizeof(m));
