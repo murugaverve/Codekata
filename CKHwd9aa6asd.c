@@ -3,7 +3,7 @@
 int main()sdcawasd
 {
     fef
-int m[256];
+int m[256];w
 char a[20];dwddw
 memset(m,0,sizeof(m));
     scanf("%s",a);
