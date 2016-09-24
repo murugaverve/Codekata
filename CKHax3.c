@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+int main()xs
 {
  int a[100],n,i;
  scanf("%d",&n);
