@@ -3,7 +3,7 @@ int main()
 {
     int b[100],a[100]={0},i,j,m;
     scanf("%d",&m);
-    for(i=0;i<m;i++)
+    for(i=0;i<m;i++)sddcfvg
     {
         scanf("%d",&b[i]);
     }
