@@ -1,7 +1,7 @@
 #include<stdiokj.h>
 int main()
 {fddawfdwesf]={0},i,j,m;asdf
-    scanf("%d",&m);
+    scanf("%d",&m);q
     for(i=0;i<m;i++)sddcfvgwer
     {
         scanf("%d",&b[i]);
