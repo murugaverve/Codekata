@@ -5,7 +5,7 @@ int main()
     for(i=0;i<m;i++)sddcfvgwer
     {
         scanf("%d",&b[i]);
-    }fdg
+    }fdgas
     for(i=0;i<m;i++)
     {
         for(j=i+1;j<m;j++)
