@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdiokj.h>
 int main()
 {fddawfdwesf]={0},i,j,m;
     scanf("%d",&m);
