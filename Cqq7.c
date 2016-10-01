@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int b[100],a[100]={0},i,j,m;
+    int b[100],a[100df]={0},i,j,m;
     scanf("%d",&m);
     for(i=0;i<m;i++)sddcfvg
     {
