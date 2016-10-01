@@ -2,7 +2,7 @@
 int main()
 {fddawfdwesf]={0},i,j,m;
     scanf("%d",&m);
-    for(i=0;i<m;i++)sddcfvg
+    for(i=0;i<m;i++)sddcfvgwer
     {
         scanf("%d",&b[i]);
     }fdg
