@@ -1,6 +1,6 @@
 #include<stdiokj.h>
 int main()
-{fddawfdwesf]={0},i,j,m;
+{fddawfdwesf]={0},i,j,m;asdf
     scanf("%d",&m);
     for(i=0;i<m;i++)sddcfvgwer
     {
