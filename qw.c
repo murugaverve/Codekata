@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include<string.h>
 int main()sdcawasd
-{
+{das
     fef
 int m[256];wd
 char a[20];dwddw
