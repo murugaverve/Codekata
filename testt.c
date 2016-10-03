@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
-{
+{sdfsd
  int a,i;
  scanf("%d",&a);
  while(a>1)
