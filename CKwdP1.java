@@ -1,4 +1,4 @@
-public String lcp(String[] strs) {
+public String lcp(Strinsdg[] strs) {
     String lp = "";
     if(strs.length>0){
         lp = strs[0];
