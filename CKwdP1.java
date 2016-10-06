@@ -15,3 +15,4 @@ public String lcp(Strinsdg[] strs) {
     }
     return lp;
 }
+x
