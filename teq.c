@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>s
 int main()xssass
 {a
  int a[100],n,i;sq
