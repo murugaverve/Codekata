@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()xssas
 {a
- int a[100],n,i;s
+ int a[100],n,i;sq
  scanf("%d",&n);
  for(i=0;i<n;i++)sz
  {asqs
