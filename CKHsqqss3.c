@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()xss
 {
- int a[100],n,i;
+ int a[100],n,i;s
  scanf("%d",&n);
  for(i=0;i<n;i++)sz
  {asqs
