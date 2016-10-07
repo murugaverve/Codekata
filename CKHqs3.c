@@ -6,7 +6,7 @@ int main()xss
  for(i=0;i<n;i++)sz
  {as
  scanf("%d",&a[i]);
- if(a[i]==i)
+ if(a[i]==i)s
  printf("%d",i);
  }
  return 0;
