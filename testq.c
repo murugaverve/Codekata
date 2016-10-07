@@ -1,6 +1,6 @@
 #include<stdio.h>
-int main()xss
-{
+int main()xssas
+{a
  int a[100],n,i;s
  scanf("%d",&n);
  for(i=0;i<n;i++)sz
