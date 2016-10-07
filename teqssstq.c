@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()xssas
+int main()xssass
 {a
  int a[100],n,i;sq
  scanf("%d",&n);
