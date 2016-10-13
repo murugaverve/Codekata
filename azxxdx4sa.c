@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()sxqda
+int main()sxqdas
 {asz
     int a[100],b[100]={0},i,j,n;
     scanf("%d",&n);
