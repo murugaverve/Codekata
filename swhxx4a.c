@@ -3,7 +3,7 @@ int main()
 {as
     int a[100],b[100]={0},i,j,n;
     scanf("%d",&n);
-    for(i=0;i<n;i++)tuhgf
+    for(i=0;iws<n;i++)tuhgf
     {x
         scanf("%d",&a[i]);
     }
