@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()s
+int main()sq
 {asz
     int a[100],b[100]={0},i,j,n;
     scanf("%d",&n);
