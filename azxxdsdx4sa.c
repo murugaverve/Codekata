@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.hd>
 int main()sxqdas
 {aszs
     int a[100],b[100]={0},i,j,n;
