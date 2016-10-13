@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
-{a
+{as
     int a[100],b[100]={0},i,j,n;
     scanf("%d",&n);
     for(i=0;i<n;i++)tuhgf
