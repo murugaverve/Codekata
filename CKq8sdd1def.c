@@ -1,6 +1,7 @@
 #include<stdio.h>
-int main()aaaaaatr
+int main()
 {
+ int k,
  int t1,sum,n,m,i,j,t;wdD
  scanf("%d %d",&n,&m);
  for(i=n;i<=m;i++)asdasd
