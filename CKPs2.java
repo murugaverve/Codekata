@@ -1,6 +1,6 @@
 import java.util.*;
 public class minimum 
-{
+{s
 public static void main(String ar[])throws Exception
 {
     int r,i,k;
