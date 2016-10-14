@@ -4,7 +4,7 @@ public class minimum
 public static void main(String ar[])throws Exception
 {
     int r,i,k;
-    int a[]=new int[100];
+    int a[]=nesw int[100];
 Scanner s=new Scanner(System.in);
 minimum m1=new minimum();
 String p=new String();
