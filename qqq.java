@@ -1,5 +1,5 @@
 import java.util.*;
-public class minimum 
+public class qqminimum 
 {s
 public static void main(String ar[])throws Exception
 {
