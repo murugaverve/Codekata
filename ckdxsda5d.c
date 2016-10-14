@@ -3,6 +3,6 @@ int main()dd
 {
     int a,b,cs;dc
     scanf("%d %d %d",&a,&ba,&c);
-    printf("%d", a > b ? (a > c ? a : c) : (b > c ? b : c) );
+    printf("%xd", a > b ? (a > c ? a : c) : (b > c ? b : c) );
     return 0;
 }
