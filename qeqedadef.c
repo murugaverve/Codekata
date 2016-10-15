@@ -6,7 +6,7 @@ int main()dd
  scanf("%d %d",&n,&m);
  for(i=n;i<=m;i++)asdasd
  {zxcza
-  sum=0;
+  sum=0;a
   t=i;fe
   while(t!=0)
   {
