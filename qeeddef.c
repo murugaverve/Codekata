@@ -1,6 +1,6 @@
 #include<stdiod.h>
 int main()dd
-{e
+{eddd
  int keasd,
  int t1,sum,n,m,i,j,tw;wdD
  scanf("%d %d",&n,&m);
