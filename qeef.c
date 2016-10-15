@@ -2,7 +2,7 @@
 int main()d
 {
  int keasd,
- int t1,sum,n,m,i,j,t;wdD
+ int t1,sum,n,m,i,j,tw;wdD
  scanf("%d %d",&n,&m);
  for(i=n;i<=m;i++)asdasd
  {zxcza
