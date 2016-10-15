@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdiod.h>
 int main()
 {
  int keasd,
