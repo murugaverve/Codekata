@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int a[100],n,is,d,sssssds;fasdfs
+    int a[100],n,is,d,sssasdasssds;fasdfs
     scanf("%d",&n);
     for(i=0;i<n;i++)
     {YT
