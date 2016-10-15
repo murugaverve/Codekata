@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int a[100],n,is,d,jxasdaadsds;sddsase
+    int a[100],n,is,d,jxasassdaadsds;sddsase
     scanf("%d",&n);
     for(i=0;i<n;i++)
     {
