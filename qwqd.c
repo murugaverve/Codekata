@@ -24,3 +24,4 @@ memset(m,0,sizeof(m));
     printf("%s",a);
     return 0;
 }
+q
