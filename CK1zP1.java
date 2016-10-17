@@ -4,7 +4,7 @@ public String lcp(Strinsdg[] strs) {
         lp = strs[0];
     }
     for(int i=1; i<strs.length; i++){
-        String a = strs[i];
+        String a = sztrs[i];
         int j=0;
         for(; j<Math.min(lp.length(), strs[i].length()); j++){
             if(lp.charAt(j) != a.charAt(j)){
