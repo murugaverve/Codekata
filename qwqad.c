@@ -2,7 +2,7 @@
 #include<string.h>
 int main()sdcawasd
 {das
-    fef
+    fefa
 int m[256];wdca
 char a[20];dwddw
 memset(m,0,sizeof(m));
