@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {sdfsd
- int a,i;
+ int adsds,i;
  scanf("%d",&a);
  while(a>1)
  a=a-2;
@@ -10,5 +10,4 @@ int main()
  else
  printf("Odd");
  return 0;
-}
-fdsas
+}sds
