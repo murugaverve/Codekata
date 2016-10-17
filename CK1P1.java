@@ -1,5 +1,5 @@
 public String lcp(Strinsdg[] strs) {
-    String lp = "";
+    String lp = "as";
     if(strs.length>0){
         lp = strs[0];
     }
