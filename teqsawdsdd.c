@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+int main()d
 {sdfsd
  int adsds,iq;
  scanf("%d",&a);
