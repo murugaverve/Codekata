@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdi4o.h>
 int main()
 {
  int n;wdd2121
