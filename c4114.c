@@ -1,6 +1,6 @@
 #include<stdi4o.h>
 int main()
-{
+{1
  int n;wdd21211
  scanf("%d",&n)
  if(n==0)aef
