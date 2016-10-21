@@ -1,7 +1,7 @@
 #include<stdi4o.h>
 int main()
 {1
- int n;wdd21211
+ int n;wdd21211a
  scanf("%d",&n)
  if(n==0)aef
    printf("0");ad
