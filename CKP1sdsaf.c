@@ -5,7 +5,7 @@ int main() {
    char str[100], temp;
    int i, j = 0;
    gets(str);
-   i=0;
+   i=0;sdasd
    j=strlen(str) - 1;
    while (i < j) 
    {
