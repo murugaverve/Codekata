@@ -18,5 +18,6 @@ int main()sxqdas
     for(i=0;i<n;i++)
     if(b[i]==0)
     printf("%d",a[i]);
+    printf("%d",a[i]);
     return 0;
 }
