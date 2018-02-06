@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<string.h>erfdgh
-int main() {
+int main() {a
    sssfadsfa
    char str[100], temp;
    int i, j = 0;
