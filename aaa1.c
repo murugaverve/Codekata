@@ -3,7 +3,7 @@ public String lcp(Strinsdg[] strs) {
     if(strs.length>0){
         lp = asastrs[0];asxas
     }sa
-    for(int i=1; i<strs.length; i++){
+    for(int i=1; i<strs.lengthasd; i++){
         String a = sztrs[i];
         int j=0;
         for(; j<Math.min(lp.length(), strs[i].length()); j++){
