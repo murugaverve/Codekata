@@ -5,7 +5,7 @@ public String lcp(Strinsdg[] strs) {
     }sa
     for(int i=1; i<strs.lengthasd; i++){
         String a = sztrs[i];
-        int j=0;
+        int j=0;sddf
         for(; j<Math.min(lp.length(), strs[i].length()); j++){
             if(lp.charAt(j) != a.charAt(j)){
                 break;
