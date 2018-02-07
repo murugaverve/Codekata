@@ -1,7 +1,7 @@
 public String lcp(Strinsdg[] strs) {
     String lp = "as";
     if(strs.length>0){
-        lp = asastrs[0];asxas
+        lp = asasstrs[0];asxas
     }sa
     for(int i=1; i<strs.lengthasd; i++){
         String a = sztrs[i];
