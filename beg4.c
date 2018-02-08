@@ -1,6 +1,7 @@
 #include<stdio.h>
-#include<string.h>erfdgh
+#include<string.h>
 int main() {
+   
    printf("Alphabet");
    return 0;
 }
