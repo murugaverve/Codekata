@@ -1,8 +1,8 @@
 a = input()
 if( a == "z"):
-  print "Consonant"
+  print ("Consonant")
 else:
-  print "Vowel"     
+  print ("Vowel")     
  
     
   
