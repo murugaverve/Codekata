@@ -1,4 +1,4 @@
-a = raw_input()
+a = input()
 if( a == "5"):
   print "Positive"
 else:
