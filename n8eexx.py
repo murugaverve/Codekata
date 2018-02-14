@@ -1,2 +1,2 @@
-age = input("");
+age = raw_input("");
 print age
