@@ -4,4 +4,4 @@ if(a == "5"):
 elif (a == "qwe"):
     print "7" 
 else:
-    print "0"
+    print a
