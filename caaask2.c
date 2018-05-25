@@ -1,6 +1,0 @@
-#include<stdio.h>
-int main()
-{
- printf("even");
- return 0;
-}
