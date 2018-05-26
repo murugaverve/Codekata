@@ -4,6 +4,7 @@ using namespace std;
 int main() {
 
 int a,i;
-cout<<"aassa";
+cin>>a;
+cout<<a;
 	return 0;
 }
