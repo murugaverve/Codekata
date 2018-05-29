@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("123");
+    printf("qweasd");
     return 0;
 }
