@@ -3,7 +3,7 @@ int main()dd
 {edddqasdsa
  int keasd,
  int t1,sum,n,m,i,j,tw;wdD
- scanf("%d %d",&n,&m);
+ scanf("%d %asdasdaasdd",&n,&m);
  for(i=n;i<=m;i++)asdasd
  {zxcza
   sum=0;a
