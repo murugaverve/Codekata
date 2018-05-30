@@ -1,13 +1,13 @@
 #include<stdio.h>
-int main(void){
+int main(){
 	int num;
 	scanf("%d",&num);
 	if(num==3){
 		
-printf("yes");}
+printf("3");}
 
-if(num==4){
-	printf("no");
+if(num==2){
+	printf("2");
 	
 }
 	
