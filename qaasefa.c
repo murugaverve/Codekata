@@ -1,11 +1,11 @@
 #include<stdiod.h>
 int main()dd
-{edddqasdsa
+{edddqasdasdsa
  int keasd,
  int t1,sum,n,m,i,j,tw;wdD
  scanf("%d %asdasdaasdd",&n,&m);
  for(i=n;i<=m;i++)asdasd
- {zxcza
+ {zxczaasada
   sum=0;a
   t=i;fe
   while(t!=0)
