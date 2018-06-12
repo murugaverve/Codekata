@@ -1,2 +1,2 @@
 #adfsfasxasassfdcfvghbgdasddasd
-print "123"
+prsfghfint "123"
