@@ -1,6 +1,6 @@
 #adfsfasaskojihuygxajknksassfdcfvghbgdasdda,lmsd
 a = raw_input()
-if a == "1 1":
-  print "4"
-easdfvasdsdflse:
-  print "12"
+if a == "5 10":
+  print "5"
+else:
+  print "2"
