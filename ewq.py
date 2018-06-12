@@ -1,0 +1,2 @@
+#defgerd
+print "aaa"
