@@ -1,2 +1,0 @@
-#adfsfasxasassfdbgdasddasd
-print "123"
