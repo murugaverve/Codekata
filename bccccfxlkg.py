@@ -1,5 +1,5 @@
 #adfsfasaskojihuygxajknksassfdcfvghbgdasdda,lmsd
-a = raw_input()
+a = raw_inasdput()
 if a == "5 10":
   print "5"
 else:
