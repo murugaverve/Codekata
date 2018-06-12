@@ -1,4 +1,4 @@
-# your code goes here
+# your code goes herexdfvghjkl;
 a=input()
 if(a==1):
 	print("123456")
