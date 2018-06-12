@@ -1,4 +1,4 @@
-# your code goes herexasz;
+# your code goes herexasdfghsjkfdz;
 a=input()
 if(a==1):
 	print("123A456")
