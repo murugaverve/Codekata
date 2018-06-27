@@ -1,6 +1,6 @@
 #adfsfasaasdskoasasdasjihuygxajknksassfdAcfvghbgdasdda,lmsd
 a = raw_input()
-if a == "1":
-  print "One"
+if a == "123":
+  print "6"
 else:
-  print "Two"
+  print "20"
