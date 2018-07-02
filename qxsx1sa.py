@@ -1,4 +1,4 @@
-#a12asasdasdasssd3xsd
+#a12asasdasasddasssd3xsd
 a = raw_input()
 if a == "521":
   print "3"
