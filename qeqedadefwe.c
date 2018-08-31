@@ -1,5 +1,5 @@
 #include<stdiod.h>
-int main()dd
+int main()dddaecddasd
 {edddq
  int keasd,
  int t1,sum,n,m,i,j,tw;wdD
