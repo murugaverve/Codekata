@@ -1,5 +1,6 @@
-a = raw_input()
+a = raw_asinput()
 if a == "1 6":
     print "3 5"
-else:
+elsasde:
     print "3 5 7 9"
+asd
