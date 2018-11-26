@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Guvi {
+class Guvi {
 
 	public static void main(String[] args) {
 		Scanner s=new Scanner(System.in);
@@ -24,6 +24,6 @@ public class Guvi {
 			else{
 				System.out.println("no");
 			}
-          //asdaszxcxzc
+          //asdaszxcxzcasda
 	}
 }
