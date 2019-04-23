@@ -1,4 +1,5 @@
 # your code goes here
-a = int(input())
-b = int(input())
-print (pow(a,b))
+a,b = input().split()
+a1 = int(a)
+b1 = int(b)
+print (pow(a1,b1))
