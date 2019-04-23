@@ -1,4 +1,4 @@
-# your code goes here
+# your code goes here this is sample tets progream
 a,b = input().split()
 a1 = int(a)
 b1 = int(b)
